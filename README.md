@@ -73,8 +73,8 @@ As a founder, here's how I would take this feature to production:
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/N-45div/Assignmnet-BreadnButter.git
+    cd Assignmnet-BreadnButter
     ```
 
 2.  **Install dependencies:**
