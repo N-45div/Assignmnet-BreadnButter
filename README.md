@@ -2,6 +2,12 @@
 
 This is a Next.js application that serves as a talent matchmaking engine. It allows clients to find the best creative talent for their projects by providing a simple interface to describe their needs in a "creative brief." The application then uses a powerful AI-powered backend to rank and recommend the most suitable talent from a large database.
 
+Demo Video 
+
+
+https://github.com/user-attachments/assets/838f5276-d2af-4829-982d-ffbaec235278
+
+
 ## Proposal
 
 ### Task Selected
